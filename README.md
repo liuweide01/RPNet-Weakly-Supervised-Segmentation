@@ -1,6 +1,8 @@
 # Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation
-The code of:
 
+![Alt ](Images/motivation.jpg?raw=true "Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation")
+
+The code of:
 Cross-Image Region Mining with Region
 Prototypical Network for Weakly Supervised
 Segmentation, Weide Liu, Xiangfei Kong, Tzu-Yi Hung, Guosheng Lin, [[Paper]](https://arxiv.org/abs/2108.07413)
