@@ -52,4 +52,3 @@ Many thanks to their greak work!
 ## TO DO
 * Training code for MS-COCO
 * Code refactoring
->>>>>>> Add all my files
