@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Cross-Image-Region-Mining-with-Region-Prototypical-Network-for-Weakly-Supervised-Segmentation
-=======
 # Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation
 The code of:
 
