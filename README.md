@@ -13,6 +13,13 @@ If you find the code useful, please consider citing our paper using the followin
 @article{liu2021cross,
   title={Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation},
   author={Liu, Weide and Kong, Xiangfei and Hung, Tzu-Yi and Lin, Guosheng},
+  journal={IEEE Transactions on Multimedia},
+  year={2021},
+  publisher={IEEE}
+}
+@article{liu2021cross,
+  title={Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation},
+  author={Liu, Weide and Kong, Xiangfei and Hung, Tzu-Yi and Lin, Guosheng},
   journal={arXiv preprint arXiv:2108.07413},
   year={2021}
 }
